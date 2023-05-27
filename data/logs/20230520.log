@@ -1,0 +1,524 @@
+2023-05-20 20:03:45,139 - logger - INFO - 02_get_prices.py - Starting items price request
+2023-05-20 20:03:45,166 - logger - INFO - 02_get_prices.py - Loading tracking items
+2023-05-20 20:03:45,179 - logger - INFO - 02_get_prices.py - Requesting items prices
+2023-05-20 20:03:45,179 - logger - INFO - 02_get_prices.py - Getting Infused Void Absorption Potion
+2023-05-20 20:03:46,272 - logger - INFO - 02_get_prices.py - Saved Infused Void Absorption Potion
+2023-05-20 20:03:46,272 - logger - INFO - 02_get_prices.py - Waiting 3.954833032097079 seconds
+2023-05-20 20:03:50,236 - logger - INFO - 02_get_prices.py - Getting Water
+2023-05-20 20:03:51,434 - logger - INFO - 02_get_prices.py - Saved Water
+2023-05-20 20:03:51,434 - logger - INFO - 02_get_prices.py - Waiting 3.995627608316807 seconds
+2023-05-20 20:03:55,442 - logger - INFO - 02_get_prices.py - Getting Earthshell Tail
+2023-05-20 20:03:56,545 - logger - INFO - 02_get_prices.py - Saved Earthshell Tail
+2023-05-20 20:03:56,545 - logger - INFO - 02_get_prices.py - Waiting 3.015605581884864 seconds
+2023-05-20 20:03:59,567 - logger - INFO - 02_get_prices.py - Getting Spinefish Fins
+2023-05-20 20:04:00,603 - logger - INFO - 02_get_prices.py - Saved Spinefish Fins
+2023-05-20 20:04:00,603 - logger - INFO - 02_get_prices.py - Waiting 3.351805079301038 seconds
+2023-05-20 20:04:03,959 - logger - INFO - 02_get_prices.py - Getting Death Mote
+2023-05-20 20:04:05,149 - logger - INFO - 02_get_prices.py - Saved Death Mote
+2023-05-20 20:04:05,149 - logger - INFO - 02_get_prices.py - Waiting 3.727923853286006 seconds
+2023-05-20 20:04:08,883 - logger - INFO - 02_get_prices.py - Getting Blightroot Stem
+2023-05-20 20:04:09,860 - logger - INFO - 02_get_prices.py - Saved Blightroot Stem
+2023-05-20 20:04:09,860 - logger - INFO - 02_get_prices.py - Waiting 3.672663956873105 seconds
+2023-05-20 20:04:13,539 - logger - INFO - 02_get_prices.py - Getting Sporebloom Fruit
+2023-05-20 20:04:14,538 - logger - INFO - 02_get_prices.py - Saved Sporebloom Fruit
+2023-05-20 20:04:14,538 - logger - INFO - 02_get_prices.py - Waiting 3.3971129220165426 seconds
+2023-05-20 20:04:17,944 - logger - INFO - 02_get_prices.py - Getting Void Pitcher
+2023-05-20 20:04:18,925 - logger - INFO - 02_get_prices.py - Saved Void Pitcher
+2023-05-20 20:04:18,925 - logger - INFO - 02_get_prices.py - Waiting 3.2540445380697407 seconds
+2023-05-20 20:04:22,181 - logger - INFO - 02_get_prices.py - Getting Sulfur
+2023-05-20 20:04:23,325 - logger - INFO - 02_get_prices.py - Saved Sulfur
+2023-05-20 20:04:23,325 - logger - INFO - 02_get_prices.py - Waiting 3.9940651356759744 seconds
+2023-05-20 20:04:27,322 - logger - INFO - 02_get_prices.py - Getting Sulfur Chunk
+2023-05-20 20:04:28,496 - logger - INFO - 02_get_prices.py - Saved Sulfur Chunk
+2023-05-20 20:04:28,496 - logger - INFO - 02_get_prices.py - Waiting 3.060432112711581 seconds
+2023-05-20 20:04:31,567 - logger - INFO - 02_get_prices.py - Getting Obsidian Flux
+2023-05-20 20:04:32,684 - logger - INFO - 02_get_prices.py - Saved Obsidian Flux
+2023-05-20 20:04:32,684 - logger - INFO - 02_get_prices.py - Waiting 3.303349352027788 seconds
+2023-05-20 20:04:35,990 - logger - INFO - 02_get_prices.py - Getting Death Wisp
+2023-05-20 20:04:37,201 - logger - INFO - 02_get_prices.py - Saved Death Wisp
+2023-05-20 20:04:37,201 - logger - INFO - 02_get_prices.py - Waiting 3.3713227701685926 seconds
+2023-05-20 20:04:40,577 - logger - INFO - 02_get_prices.py - Getting Blightroot Leaf
+2023-05-20 20:04:41,815 - logger - INFO - 02_get_prices.py - Saved Blightroot Leaf
+2023-05-20 20:04:41,815 - logger - INFO - 02_get_prices.py - Waiting 3.0539636183244827 seconds
+2023-05-20 20:04:44,875 - logger - INFO - 02_get_prices.py - Getting Putrid Lodestone
+2023-05-20 20:04:46,007 - logger - INFO - 02_get_prices.py - Saved Putrid Lodestone
+2023-05-20 20:04:46,007 - logger - INFO - 02_get_prices.py - Waiting 3.043681143262102 seconds
+2023-05-20 20:04:49,062 - logger - INFO - 02_get_prices.py - Getting Death Essence
+2023-05-20 20:04:50,202 - logger - INFO - 02_get_prices.py - Saved Death Essence
+2023-05-20 20:04:50,202 - logger - INFO - 02_get_prices.py - Waiting 3.6971495962573555 seconds
+2023-05-20 20:04:53,913 - logger - INFO - 02_get_prices.py - Getting Blightroot Flower
+2023-05-20 20:04:54,914 - logger - INFO - 02_get_prices.py - Saved Blightroot Flower
+2023-05-20 20:04:54,916 - logger - INFO - 02_get_prices.py - Waiting 3.880742988984955 seconds
+2023-05-20 20:04:58,805 - logger - INFO - 02_get_prices.py - Getting Death Quintessence
+2023-05-20 20:04:59,827 - logger - INFO - 02_get_prices.py - Saved Death Quintessence
+2023-05-20 20:04:59,827 - logger - INFO - 02_get_prices.py - Waiting 3.343355717379669 seconds
+2023-05-20 20:05:03,185 - logger - INFO - 02_get_prices.py - Getting Poison Sac
+2023-05-20 20:05:04,254 - logger - INFO - 02_get_prices.py - Saved Poison Sac
+2023-05-20 20:05:04,256 - logger - INFO - 02_get_prices.py - Waiting 3.1565499665345818 seconds
+2023-05-20 20:05:07,420 - logger - INFO - 02_get_prices.py - Getting Blightmoth Dust
+2023-05-20 20:05:08,433 - logger - INFO - 02_get_prices.py - Saved Blightmoth Dust
+2023-05-20 20:05:08,433 - logger - INFO - 02_get_prices.py - Waiting 3.7146831551582005 seconds
+2023-05-20 20:05:12,155 - logger - INFO - 02_get_prices.py - Getting Soul Mote
+2023-05-20 20:05:13,166 - logger - INFO - 02_get_prices.py - Saved Soul Mote
+2023-05-20 20:05:13,166 - logger - INFO - 02_get_prices.py - Waiting 3.796493772236372 seconds
+2023-05-20 20:05:16,968 - logger - INFO - 02_get_prices.py - Getting Soulsprout Stem
+2023-05-20 20:05:18,057 - logger - INFO - 02_get_prices.py - Saved Soulsprout Stem
+2023-05-20 20:05:18,057 - logger - INFO - 02_get_prices.py - Waiting 3.4986561008679815 seconds
+2023-05-20 20:05:21,569 - logger - INFO - 02_get_prices.py - Getting Shellbed Cap
+2023-05-20 20:05:22,766 - logger - INFO - 02_get_prices.py - Saved Shellbed Cap
+2023-05-20 20:05:22,766 - logger - INFO - 02_get_prices.py - Waiting 3.0399425770877726 seconds
+2023-05-20 20:05:25,809 - logger - INFO - 02_get_prices.py - Getting Tubecap
+2023-05-20 20:05:26,686 - logger - INFO - 02_get_prices.py - Saved Tubecap
+2023-05-20 20:05:26,686 - logger - INFO - 02_get_prices.py - Waiting 3.2469266665342427 seconds
+2023-05-20 20:05:29,933 - logger - INFO - 02_get_prices.py - Getting Bumbleblossom
+2023-05-20 20:05:31,040 - logger - INFO - 02_get_prices.py - Saved Bumbleblossom
+2023-05-20 20:05:31,040 - logger - INFO - 02_get_prices.py - Waiting 3.185978198563184 seconds
+2023-05-20 20:05:34,240 - logger - INFO - 02_get_prices.py - Request completed
+2023-05-20 20:05:44,277 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:05:44,277 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:05:44,281 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:05:44,281 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:05:44,301 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,301 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,318 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,318 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,334 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,334 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,346 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,346 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,346 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:05:44,346 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:05:44,362 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,362 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,366 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,366 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,383 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,383 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,395 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,395 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,395 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:05:44,395 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:05:44,407 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,407 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,412 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,412 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,427 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,427 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,441 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,441 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,441 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:05:44,441 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:05:44,456 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,456 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,460 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,460 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,476 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,476 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,492 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,492 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,492 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:05:44,492 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:05:44,506 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,506 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,517 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,517 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,537 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,537 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,552 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,552 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:05:44,552 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:05:44,552 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:05:44,553 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:05:44,553 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:05:44,561 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:05:44,561 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:05:44,565 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:05:44,565 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:05:44,573 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:05:44,573 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:05:44,578 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:05:44,578 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:05:44,582 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:05:44,582 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:05:44,587 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:05:44,587 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:05:44,592 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:05:44,592 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:05:44,596 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:05:44,596 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:05:44,600 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,600 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:05:44,603 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,603 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:05:44,608 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:05:44,608 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:05:44,612 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:05:44,612 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:05:44,612 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:05:44,612 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:05:44,620 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:05:44,620 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:05:44,625 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:05:44,625 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:05:44,629 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:05:44,629 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:05:44,633 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,633 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:05:44,638 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:05:44,638 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:05:44,641 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:05:44,641 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:05:44,646 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:05:44,646 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:08:07,998 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:08:07,998 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:08:07,998 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:08:08,000 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:08:08,000 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:08:08,000 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:08:08,009 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,009 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,009 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,014 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,014 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,014 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,018 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,018 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,018 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,022 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,022 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,022 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,025 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:08:08,025 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:08:08,025 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:08:08,030 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,030 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,030 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,034 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,034 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,034 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,039 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,039 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,039 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:08:08,047 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:08:08,055 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,055 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,055 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,063 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,063 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,063 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,070 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,070 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,070 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:08:08,074 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:08:08,079 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,079 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,079 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,082 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,082 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,082 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,086 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,086 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,086 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,090 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,090 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,090 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,093 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:08:08,093 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:08:08,093 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:08:08,095 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,095 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,095 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,098 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,098 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,098 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,102 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,102 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,102 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:08:08,106 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:08:08,110 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:08:08,110 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:08:08,110 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:08:08,118 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:08:08,118 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:08:08,118 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:08:08,122 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:08:08,122 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:08:08,122 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:08:08,126 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:08:08,126 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:08:08,126 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:08:08,130 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:08:08,130 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:08:08,130 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:08:08,134 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:08:08,134 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:08:08,134 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:08:08,138 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:08:08,138 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:08:08,138 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:08:08,142 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:08:08,142 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:08:08,142 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:08:08,145 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:08:08,145 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:08:08,145 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:08:08,149 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,149 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,149 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:08:08,152 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,152 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,152 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:08:08,156 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:08:08,156 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:08:08,156 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:08:08,159 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:08:08,159 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:08:08,159 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:08:08,163 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:08:08,163 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:08:08,163 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:08:08,167 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:08:08,167 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:08:08,167 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:08:08,171 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:08:08,171 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:08:08,171 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:08:08,173 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:08:08,173 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:08:08,173 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:08:08,175 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,175 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,175 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:08:08,181 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:08:08,181 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:08:08,181 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:08:08,183 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:08:08,183 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:08:08,183 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:08:08,189 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:08:08,189 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:08:08,189 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:09:07,424 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:09:07,424 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:09:07,424 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:09:07,424 - logger - INFO - 02_get_prices.py - Starting merging items process
+2023-05-20 20:09:07,431 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:09:07,431 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:09:07,431 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:09:07,431 - logger - INFO - 02_get_prices.py - Merging 2023-05-19 22:30:23
+2023-05-20 20:09:07,436 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,436 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,436 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,436 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,445 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,445 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,445 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,445 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,449 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,449 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,449 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,449 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,456 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,456 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,456 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,456 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,457 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:09:07,457 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:09:07,457 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:09:07,457 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 13:56:10
+2023-05-20 20:09:07,461 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,461 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,461 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,461 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,465 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,465 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,465 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,465 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,470 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,470 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,470 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,470 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,473 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,473 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,473 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,473 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,477 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:09:07,477 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:09:07,477 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:09:07,477 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:53:12
+2023-05-20 20:09:07,481 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,481 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,481 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,481 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,486 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,486 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,486 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,486 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,490 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,490 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,490 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,490 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,494 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,494 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,494 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,494 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,495 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:09:07,495 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:09:07,495 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:09:07,495 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:55:46
+2023-05-20 20:09:07,498 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,498 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,498 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,498 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,502 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,502 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,502 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,502 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,506 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,506 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,506 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,506 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:09:07,510 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 15:56:54
+2023-05-20 20:09:07,514 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,514 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,514 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,514 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,518 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,518 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,518 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,518 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,522 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,522 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,522 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,522 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:09:07,526 - logger - INFO - 02_get_prices.py - Merging 2023-05-20 20:03:45
+2023-05-20 20:09:07,530 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:09:07,530 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:09:07,530 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:09:07,530 - logger - INFO - 02_get_prices.py - Added Blightmoth Dust
+2023-05-20 20:09:07,534 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:09:07,534 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:09:07,534 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:09:07,534 - logger - INFO - 02_get_prices.py - Added Blightroot Flower
+2023-05-20 20:09:07,538 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:09:07,538 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:09:07,538 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:09:07,538 - logger - INFO - 02_get_prices.py - Added Blightroot Leaf
+2023-05-20 20:09:07,542 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:09:07,542 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:09:07,542 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:09:07,542 - logger - INFO - 02_get_prices.py - Added Blightroot Stem
+2023-05-20 20:09:07,546 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:09:07,546 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:09:07,546 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:09:07,546 - logger - INFO - 02_get_prices.py - Added Bumbleblossom
+2023-05-20 20:09:07,550 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:09:07,550 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:09:07,550 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:09:07,550 - logger - INFO - 02_get_prices.py - Added Death Essence
+2023-05-20 20:09:07,554 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:09:07,554 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:09:07,554 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:09:07,554 - logger - INFO - 02_get_prices.py - Added Death Mote
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Quintessence
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:09:07,558 - logger - INFO - 02_get_prices.py - Added Death Wisp
+2023-05-20 20:09:07,562 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,562 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,562 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,562 - logger - INFO - 02_get_prices.py - Added Earthshell Tail
+2023-05-20 20:09:07,566 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,566 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,566 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,566 - logger - INFO - 02_get_prices.py - Added Infused Void Absorption Potion
+2023-05-20 20:09:07,570 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:09:07,570 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:09:07,570 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:09:07,570 - logger - INFO - 02_get_prices.py - Added Obsidian Flux
+2023-05-20 20:09:07,574 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:09:07,574 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:09:07,574 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:09:07,574 - logger - INFO - 02_get_prices.py - Added Poison Sac
+2023-05-20 20:09:07,579 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:09:07,579 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:09:07,579 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:09:07,579 - logger - INFO - 02_get_prices.py - Added Putrid Lodestone
+2023-05-20 20:09:07,585 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:09:07,585 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:09:07,585 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:09:07,585 - logger - INFO - 02_get_prices.py - Added Shellbed Cap
+2023-05-20 20:09:07,590 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:09:07,590 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:09:07,590 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:09:07,590 - logger - INFO - 02_get_prices.py - Added Soul Mote
+2023-05-20 20:09:07,593 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:09:07,593 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:09:07,593 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:09:07,593 - logger - INFO - 02_get_prices.py - Added Soulsprout Stem
+2023-05-20 20:09:07,598 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,598 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,598 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,598 - logger - INFO - 02_get_prices.py - Added Spinefish Fins
+2023-05-20 20:09:07,606 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:09:07,606 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:09:07,606 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:09:07,606 - logger - INFO - 02_get_prices.py - Added Sporebloom Fruit
+2023-05-20 20:09:07,612 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:09:07,612 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:09:07,612 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:09:07,612 - logger - INFO - 02_get_prices.py - Added Sulfur Chunk
+2023-05-20 20:09:07,615 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:09:07,615 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:09:07,615 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:09:07,615 - logger - INFO - 02_get_prices.py - Added Sulfur
+2023-05-20 20:09:07,615 - logger - ERROR - 02_get_prices.py - Skipping Tubecap.json
+2023-05-20 20:09:07,615 - logger - ERROR - 02_get_prices.py - Skipping Tubecap.json
+2023-05-20 20:09:07,615 - logger - ERROR - 02_get_prices.py - Skipping Tubecap.json
+2023-05-20 20:09:07,615 - logger - ERROR - 02_get_prices.py - Skipping Tubecap.json
+2023-05-20 20:09:07,619 - logger - INFO - 02_get_prices.py - Added Void Pitcher
+2023-05-20 20:09:07,619 - logger - INFO - 02_get_prices.py - Added Void Pitcher
+2023-05-20 20:09:07,619 - logger - INFO - 02_get_prices.py - Added Void Pitcher
+2023-05-20 20:09:07,619 - logger - INFO - 02_get_prices.py - Added Void Pitcher
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Added Water
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Saving merged dataframe
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Saving merged dataframe
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Saving merged dataframe
+2023-05-20 20:09:07,623 - logger - INFO - 02_get_prices.py - Saving merged dataframe

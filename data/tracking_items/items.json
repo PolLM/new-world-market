@@ -1,0 +1,232 @@
+{
+    "Infused Void Absorption Potion":{
+        "tier": 5,
+        "category": "Concoctions",
+        "ingredient_types": [],
+        "crafting":  {
+            "crafted_quantity": 1,
+            "extra_item_chance": 0.8,
+            "ingredients": [
+                {
+                    "artifact": "item",
+                    "name": "Water",
+                    "quantity": 1,
+                    "primary_item": false
+                },
+                {
+                    "artifact": "item class",
+                    "name": "Protective Reagents",
+                    "tier": 5,
+                    "quantity": 1,
+                    "primary_item": true
+                },
+                {
+                    "artifact": "item class",
+                    "name": "Death Reagents",
+                    "tier": 1,
+                    "quantity": 1,
+                    "primary_item": false
+                },
+                {
+                    "artifact": "item class",
+                    "name": "Spirit Reagents",
+                    "tier": 1,
+                    "quantity": 1,
+                    "primary_item": false
+                }
+            ]
+        }
+    },
+    "Water":{
+        "tier": 1,
+        "category": "Common Consumable",
+        "ingredient_types": [],
+        "crafting": false
+    },
+    "Earthshell Tail":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Earth Reagents", "Protective Reagents", "Alchemy Critters"],
+        "crafting": false
+    },
+    "Spinefish Fins":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Water Reagents", "Protective Reagents", "Alchemy Critters"],
+        "crafting": false
+    },
+    "Death Mote":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Death Arcana"],
+        "crafting": false
+    },
+    "Blightroot Stem":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Sporebloom Fruit":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Medical Reagents"],
+        "crafting": false
+    },
+    "Void Pitcher":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Sulfur":{
+        "tier": 3,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": {
+            "crafted_quantity":1,
+            "extra_item_chance":-0.07,
+            "ingredients":[
+                {
+                    "artifact":"item",
+                    "name":"Sulfur Chunk",
+                    "quantity":5,
+                    "primary_item":false
+                },
+                {
+                    "artifact":"item class",
+                    "name":"Flux",
+                    "tier":1,
+                    "quantity":1,
+                    "primary_item":false
+                }
+            ]
+        }
+    },
+    "Sulfur Chunk":{
+        "tier": 3,
+        "category": "Resource",
+        "ingredient_types": [],
+        "crafting": false
+    },
+    "Obsidian Flux":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Flux"],
+        "crafting": false
+    },
+    "Death Wisp":{
+        "tier": 3,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Death Arcana"],
+        "crafting": {
+            "crafted_quantity":1,
+            "extra_item_chance":0,
+            "ingredients":[
+                {
+                    "artifact":"item",
+                    "name":"Death Mote",
+                    "quantity":5,
+                    "primary_item":false
+                }
+            ]
+        }
+    },
+    "Blightroot Leaf":{
+        "tier": 3,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Putrid Lodestone":{
+        "tier": 3,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Death Essence":{
+        "tier": 4,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Death Arcana"],
+        "crafting": {
+            "crafted_quantity":1,
+            "extra_item_chance":0,
+            "ingredients":[
+                {
+                    "artifact":"item",
+                    "name":"Death Wisp",
+                    "quantity":4,
+                    "primary_item":false
+                }
+            ]
+        }
+    },
+    "Blightroot Flower":{
+        "tier": 4,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Death Quintessence":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Death Arcana"],
+        "crafting": {
+            "crafted_quantity":1,
+            "extra_item_chance":0,
+            "ingredients":[
+                {
+                    "artifact":"item",
+                    "name":"Death Essence",
+                    "quantity":3,
+                    "primary_item":false
+                }
+            ]
+        }
+    },
+    "Poison Sac":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Medical Reagents"],
+        "crafting": false
+    },
+    "Blightmoth Dust":{
+        "tier": 5,
+        "category": "Resource",
+        "ingredient_types": ["Death Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Soul Mote":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Spirit Reagents", "Soul Arcana"],
+        "crafting": false
+    },
+    "Soulsprout Stem":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Spirit Reagents", "Magical Reagents"],
+        "crafting": false
+    },
+    "Shellbed Cap":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Spirit Reagents", "Protective Reagents"],
+        "crafting": false
+    },
+    "Tubecap":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Spirit Reagents", "Offensive Reagents"],
+        "crafting": false
+    },
+    "Bumbleblossom":{
+        "tier": 2,
+        "category": "Resource",
+        "ingredient_types": ["Spirit Reagents", "Magical Reagents"],
+        "crafting": false
+    }
+
+
+
+}

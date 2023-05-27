@@ -1,0 +1,40 @@
+2023-05-21 13:39:15,503 - logger - INFO - 03_get_all_items_price.py - Starting items price request
+2023-05-21 13:39:24,382 - logger - INFO - 03_get_all_items_price.py - Request completed
+2023-05-21 13:39:24,382 - logger - INFO - 03_get_all_items_price.py - Saving the response
+2023-05-21 13:39:24,440 - logger - INFO - 03_get_all_items_price.py - Response saved to csv file: 20230521_133924.csv
+2023-05-21 13:41:02,058 - logger - INFO - 03_get_all_items_price.py - Starting items price request
+2023-05-21 13:41:29,190 - logger - INFO - 03_get_all_items_price.py - Request completed
+2023-05-21 13:41:29,190 - logger - INFO - 03_get_all_items_price.py - Saving the response
+2023-05-21 13:41:29,248 - logger - INFO - 03_get_all_items_price.py - Response saved to csv file: 20230521_134129.csv
+2023-05-21 13:47:11,057 - logger - INFO - 04_process_merge_all_items.py - Starting merging items process
+2023-05-21 13:47:11,059 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133409.csv
+2023-05-21 13:47:11,083 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133526.csv
+2023-05-21 13:47:11,104 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133924.csv
+2023-05-21 13:47:11,130 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_134129.csv
+2023-05-21 13:47:11,154 - logger - INFO - 04_process_merge_all_items.py - Convert the data types
+2023-05-21 13:47:11,154 - logger - ERROR - 04_process_merge_all_items.py - Error converting the data types 'price_date'
+2023-05-21 13:47:11,154 - logger - INFO - 04_process_merge_all_items.py - Saving merged dataframe
+2023-05-21 13:48:33,741 - logger - INFO - 04_process_merge_all_items.py - Starting merging items process
+2023-05-21 13:48:33,744 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133409.csv
+2023-05-21 13:48:33,758 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133526.csv
+2023-05-21 13:48:33,780 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133924.csv
+2023-05-21 13:48:33,794 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_134129.csv
+2023-05-21 13:48:33,811 - logger - INFO - 04_process_merge_all_items.py - Convert the data types
+2023-05-21 13:48:33,811 - logger - ERROR - 04_process_merge_all_items.py - Error converting the data types 'price_date'
+2023-05-21 13:48:33,811 - logger - INFO - 04_process_merge_all_items.py - Saving merged dataframe
+2023-05-21 18:09:10,659 - logger - INFO - 04_process_merge_all_items.py - Starting merging items process
+2023-05-21 18:09:10,660 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133409.csv
+2023-05-21 18:09:10,693 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133526.csv
+2023-05-21 18:09:10,719 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133924.csv
+2023-05-21 18:09:10,744 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_134129.csv
+2023-05-21 18:09:10,769 - logger - INFO - 04_process_merge_all_items.py - Convert the data types
+2023-05-21 18:09:10,771 - logger - ERROR - 04_process_merge_all_items.py - Error converting the data types 'price_date'
+2023-05-21 18:09:10,771 - logger - INFO - 04_process_merge_all_items.py - Saving merged dataframe
+2023-05-21 18:09:20,299 - logger - INFO - 04_process_merge_all_items.py - Starting merging items process
+2023-05-21 18:09:20,301 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133409.csv
+2023-05-21 18:09:20,325 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133526.csv
+2023-05-21 18:09:20,342 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_133924.csv
+2023-05-21 18:09:20,359 - logger - INFO - 04_process_merge_all_items.py - Merging 20230521_134129.csv
+2023-05-21 18:09:20,375 - logger - INFO - 04_process_merge_all_items.py - Convert the data types
+2023-05-21 18:09:20,375 - logger - ERROR - 04_process_merge_all_items.py - Error converting the data types 'price_date'
+2023-05-21 18:09:20,376 - logger - INFO - 04_process_merge_all_items.py - Saving merged dataframe
